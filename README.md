@@ -18,25 +18,43 @@
 
 ## 🧭 About Me
 
-I am **Syed Shajahan Basha**, a Full Stack Technical Lead and **AWS Certified Solutions Architect** with **12+ years of experience** in building enterprise web and mobile platforms.
+I am **Syed Shajahan Basha**, a Full Stack Technical Lead and **AWS Certified Solutions Architect** with **12+ years of experience** building enterprise web and mobile platforms.
 
-I design systems that are **scalable, secure, maintainable, and production-ready**.  
-My strength goes beyond coding into **architecture, performance optimization, and technical leadership**.
-
-Domains: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**
+I focus on **scalable architecture, clean system design, performance optimization, and technical leadership**.  
+Industries: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**.
 
 ---
 
-## 🛠️ My Skills & Technologies (Animated)
+## 🛠️ My Core Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,angular,flutter,ionic,mysql,mongodb,aws&perline=5" />
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /><br/>
+PHP • Laravel • Node.js • REST APIs • Microservices
+</td>
 
-<br/><br/>
+<td align="center" width="33%">
+<h3>Frontend & Mobile</h3>
+<img src="https://skillicons.dev/icons?i=react,angular,flutter,ionic" /><br/>
+React • Angular • Flutter • Ionic • Responsive UI
+</td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Development;Frontend+%26+Mobile+Apps;Cloud+Architecture+%26+Microservices;Low-Code+%2F+No-Code+Platforms;Scalable+System+Design" />
+<td align="center" width="33%">
+<h3>Cloud & Databases</h3>
+<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb" /><br/>
+AWS • MySQL • MongoDB • Cloud Architecture • Scalable Systems
+</td>
+</tr>
+</table>
 
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud-First+Architecture;High-Performance+System+Design;Low-Code+%2F+No-Code+Platforms;Enterprise+Application+Development" />
 </div>
 
 ---
@@ -57,22 +75,20 @@ Domains: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**
 
 ## ⭐ Why You Should Hire Me
 
-✔ **12+ years of enterprise engineering experience**  
-✔ **AWS Certified Solutions Architect** with cloud-first mindset  
-✔ Expert in **scalable architecture, performance, and system design**  
-✔ **Hands-on leader** who mentors teams and raises engineering standards  
-✔ Proven in converting **business requirements into production-ready software**  
-✔ Strong experience in **Low-Code / No-Code product platforms**
+✔ 12+ years of enterprise engineering experience  
+✔ AWS Certified Solutions Architect with cloud-first mindset  
+✔ Expert in scalable architecture, performance, and system design  
+✔ Hands-on leader who mentors teams and improves delivery standards  
+✔ Proven in converting business requirements into production-ready software  
+✔ Strong experience in Low-Code / No-Code product platforms  
 
 ---
 
 ## 🚀 What I Can Deliver
 
-<div align="center">
-
 <table>
 <tr>
-<td width="45%">
+<td width="50%">
 
 ✔ Enterprise web applications  
 ✔ Secure API development  
@@ -81,7 +97,7 @@ Domains: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**
 ✔ Performance-optimized systems  
 
 </td>
-<td width="45%">
+<td width="50%">
 
 ✔ Mobile apps (Flutter / Ionic)  
 ✔ System integrations  
@@ -93,73 +109,78 @@ Domains: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## 🧑‍💼 Experience Timeline
 
-<div align="left">
-
-### 🟢 **2024 – Present**
+### 🟢 2024 – Present
 **Senior PHP Developer**  
-🏢 *The George Institute for Global Health, Hyderabad*  
+🏢 *The George Institute for Global Health*  
 • Leading healthcare digital platforms  
-• Improving performance, stability, and infrastructure  
+• Improving system performance and infrastructure  
 • Mentoring teams and enforcing engineering best practices  
 
 ---
 
-### 🔵 **2021 – 2024**
+### 🔵 2021 – 2024
 **Full Stack Lead**  
-🏢 *ZerocodeHR LLP, Hyderabad*  
+🏢 *ZerocodeHR LLP*  
 • Built Low-Code / No-Code enterprise platforms  
 • Designed scalable HR systems  
 • Accelerated product delivery  
 
 ---
 
-### 🟣 **2019 – 2021**
+### 🟣 2019 – 2021
 **Lead Technical Specialist**  
-🏢 *SSS Solutions, Hyderabad*  
+🏢 *SSS Solutions*  
 • Internal product architect  
 • Owned full lifecycle development  
 • Led system design and delivery  
 
 ---
 
-### 🟠 **2017 – 2019**
+### 🟠 2017 – 2019
 **Technical Team Lead**  
-🏢 *Wenso Ltd, Hyderabad*  
+🏢 *Wenso Ltd*  
 • Managed development teams and client delivery  
 • Hands-on with architecture, code, and deployments  
 
 ---
 
-### 🟡 **2015 – 2016**
+### 🟡 2015 – 2016
 **PHP Developer**  
-🏢 *Verve Mobile Pvt Ltd, Hyderabad*  
+🏢 *Verve Mobile Pvt Ltd*  
 • Built backend APIs and hybrid mobile apps  
 • Optimized UI performance and reliability  
 
 ---
 
-### ⚪ **2013 – 2015**
+### ⚪ 2013 – 2015
 **Freelance Web Developer**  
 • Delivered PHP websites, MVPs, and startup platforms  
 
-</div>
-
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shajahan1919&show_icons=true&hide_border=true&theme=transparent" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shajahan1919&hide_border=true&theme=transparent" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajahan1919&layout=compact&hide_border=true&theme=transparent" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=shajahan1919&show_icons=true&hide_border=true&theme=transparent" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shajahan1919&hide_border=true&theme=transparent" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajahan1919&layout=compact&hide_border=true&theme=transparent" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -179,5 +200,5 @@ Domains: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**
 ---
 
 <div align="center">
-<b>“I don’t just write code. I design systems that scale, teams that grow, and products that last.”</b>
+<b>“I design systems that scale, teams that grow, and products that last.”</b>
 </div>
