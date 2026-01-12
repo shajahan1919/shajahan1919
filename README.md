@@ -1,52 +1,54 @@
+<!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F97316&center=true&vCenter=true&width=900&lines=Syed+Shajahan+Basha;Full+Stack+Technical+Lead;AWS+Certified+Solutions+Architect;12%2B+Years+in+Web+%26+Mobile+Development" />
+<h1>Syed Shajahan Basha</h1>
+<h3>Full Stack Technical Lead • AWS Certified Solutions Architect</h3>
+<p><b>12+ Years in Web, Mobile, Cloud & Scalable Architecture</b></p>
 
-<br/>
-
-🌐 **www.shajahanbasha.com**  
-📧 **shajahanbasha.syed@gmail.com**  
-📞 **+91-9949427002**
+<p>
+<a href="https://www.shajahanbasha.com">🌐 Website</a> &nbsp;|&nbsp;
+<a href="https://linkedin.com/in/shajahan-basha-syed-fullstack-lead">💼 LinkedIn</a> &nbsp;|&nbsp;
+<a href="mailto:shajahanbasha.syed@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+📞 +91-9949427002
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-I am **Syed Shajahan Basha**, a Full Stack Technical Lead and AWS Certified Solutions Architect with **12+ years of experience** in building enterprise web and mobile applications.
+I am **Syed Shajahan Basha**, a Full Stack Technical Lead and **AWS Certified Solutions Architect** with **12+ years of experience** in building enterprise web and mobile platforms.
 
-I specialize in **cloud-first architecture, scalable system design, full-stack development, and technical leadership**. I have delivered reliable platforms across healthcare, HR tech, CRM, SaaS, and product-based systems.
+I design systems that are **scalable, secure, maintainable, and production-ready**.  
+My strength goes beyond coding into **architecture, performance optimization, and technical leadership**.
+
+Domains: **Healthcare, HR Tech, CRM, SaaS, Consumer Platforms**
 
 ---
 
-## 🧠 My Skills
+## 🛠️ My Skills & Technologies
 
-### 💻 Backend
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+### 🔧 Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+<img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="48"/>
 </p>
 
 ### 🎨 Frontend & Mobile
-<p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,angular,flutter" />
+<img src="https://cdn.simpleicons.org/ionic/3880FF" height="48"/>
 </p>
 
 ### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ Cloud & Architecture
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Low--Code%20%2F%20No--Code-7C3AED?style=for-the-badge"/>
@@ -54,77 +56,87 @@ I specialize in **cloud-first architecture, scalable system design, full-stack d
 
 ---
 
-## 🎓 My Certifications
+## 🎓 Certifications
 
-<p>
-<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Certified-Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Certified%20Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/MTA-Database%20Fundamentals-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React%20JS-Assessment-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-JS%20Assessment-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Generative%20AI-MasterMind-8B5CF6?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⭐ Why Should You Hire Me
+## ⭐ Why You Should Hire Me
 
-✔ 12+ years of enterprise software experience  
-✔ AWS Certified Solutions Architect with strong cloud expertise  
-✔ Expert in scalable architecture, performance, and system design  
-✔ Hands-on technical leader who mentors teams and improves delivery standards  
-✔ Proven in converting business requirements into production-ready software  
-✔ Experienced in Low-Code / No-Code product development  
+✔ **12+ years of enterprise engineering experience**  
+✔ **AWS Certified Solutions Architect** with cloud-first mindset  
+✔ Expert in **scalable architecture, performance, and system design**  
+✔ **Hands-on leader** who mentors teams and raises engineering standards  
+✔ Proven ability to turn **business requirements into production-ready software**  
+✔ Strong experience in **Low-Code / No-Code product platforms**
 
 ---
 
 ## 🚀 What I Can Deliver
 
-✔ Fully custom, responsive web applications  
-✔ Secure API development and system integration  
-✔ Scalable enterprise platforms and SaaS products  
-✔ Mobile apps with offline and online capabilities  
-✔ Cloud-first architecture with cost and performance optimization  
-✔ Ongoing support, maintenance, and future-ready solutions  
+<table>
+<tr>
+<td width="50%">
+
+✔ Enterprise web applications  
+✔ Secure API development  
+✔ SaaS & product platforms  
+✔ Cloud-ready architectures  
+✔ Performance-optimized systems  
+
+</td>
+<td width="50%">
+
+✔ Mobile apps (Flutter / Ionic)  
+✔ System integrations  
+✔ Technical leadership & mentoring  
+✔ Long-term maintenance  
+✔ Future-proof solutions  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧑‍💼 My Work Experience (Timeline)
+## 🧑‍💼 Experience Timeline
 
 ```text
-2024 ─────────────── Present
-Senior PHP Developer
-The George Institute for Global Health, Hyderabad
+2024 ─ Present
+Senior PHP Developer | The George Institute for Global Health
 • Leading healthcare digital platforms
-• Improving system performance, stability, and infrastructure
-• Mentoring developers and enforcing engineering best practices
+• Improving performance, stability, and infrastructure
+• Mentoring teams and enforcing engineering best practices
 
-2021 ─────────────── 2024
-Full Stack Lead
-ZerocodeHR LLP, Hyderabad
+2021 ─ 2024
+Full Stack Lead | ZerocodeHR LLP
 • Built Low-Code / No-Code enterprise platforms
-• Designed scalable HR products and front-end modules
-• Improved development speed and system performance
+• Designed scalable HR systems
+• Accelerated product delivery
 
-2019 ─────────────── 2021
-Lead Technical Specialist
-SSS Solutions, Hyderabad
-• Internal product architect for business-critical software
-• Managed end-to-end system design and development
+2019 ─ 2021
+Lead Technical Specialist | SSS Solutions
+• Internal product architect
+• Owned full lifecycle development
+• Led system design and delivery
 
-2017 ─────────────── 2019
-Technical Team Lead
-Wenso Ltd, Hyderabad
-• Led development teams, architecture, and client delivery
-• Hands-on coding, reviews, and deployments
+2017 ─ 2019
+Technical Team Lead | Wenso Ltd
+• Managed development teams and client delivery
+• Hands-on with architecture, code, and deployments
 
-2015 ─────────────── 2016
-PHP Developer
-Verve Mobile Pvt Ltd, Hyderabad
-• Developed backend APIs and hybrid mobile applications
-• Supported UI development and performance optimization
+2015 ─ 2016
+PHP Developer | Verve Mobile Pvt Ltd
+• Built backend APIs and hybrid mobile apps
+• Optimized UI performance and reliability
 
-2013 ─────────────── 2015
-Freelancer – Web Developer
-Hyderabad
-• Built PHP websites, MVPs, and startup platforms
-• Delivered responsive, scalable business solutions
+2013 ─ 2015
+Freelance Web Developer
+• Delivered PHP websites, MVPs, and startup platforms
