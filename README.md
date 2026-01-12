@@ -18,8 +18,6 @@ I am **Syed Shajahan Basha**, a Full Stack Technical Lead and AWS Certified Solu
 
 I specialize in **cloud-first architecture, scalable system design, full-stack development, and technical leadership**. I have delivered reliable platforms across healthcare, HR tech, CRM, SaaS, and product-based systems.
 
-I focus on clean code, strong architecture, and mentoring teams to build systems that perform well in real production environments.
-
 ---
 
 ## 🧠 My Skills
@@ -70,12 +68,12 @@ I focus on clean code, strong architecture, and mentoring teams to build systems
 
 ## ⭐ Why Should You Hire Me
 
-✔ **12+ years of enterprise software experience**  
-✔ **AWS Certified Solutions Architect** with strong cloud expertise  
-✔ Expert in **scalable architecture, performance, and system design**  
-✔ **Hands-on technical leader** who mentors teams and improves delivery standards  
-✔ Proven in converting **business requirements into production-ready software**  
-✔ Experienced in **Low-Code / No-Code product development**  
+✔ 12+ years of enterprise software experience  
+✔ AWS Certified Solutions Architect with strong cloud expertise  
+✔ Expert in scalable architecture, performance, and system design  
+✔ Hands-on technical leader who mentors teams and improves delivery standards  
+✔ Proven in converting business requirements into production-ready software  
+✔ Experienced in Low-Code / No-Code product development  
 
 ---
 
@@ -90,48 +88,43 @@ I focus on clean code, strong architecture, and mentoring teams to build systems
 
 ---
 
-## 🧑‍💼 My Work Experience
+## 🧑‍💼 My Work Experience (Timeline)
 
-**Senior PHP Developer – The George Institute for Global Health (2024–Present)**  
-Leading healthcare platforms, improving performance, stability, and infrastructure while mentoring developers.
+```text
+2024 ─────────────── Present
+Senior PHP Developer
+The George Institute for Global Health, Hyderabad
+• Leading healthcare digital platforms
+• Improving system performance, stability, and infrastructure
+• Mentoring developers and enforcing engineering best practices
 
-**Full Stack Lead – ZerocodeHR LLP (2021–2024)**  
-Built Low-Code / No-Code enterprise platforms and scalable HR products.
+2021 ─────────────── 2024
+Full Stack Lead
+ZerocodeHR LLP, Hyderabad
+• Built Low-Code / No-Code enterprise platforms
+• Designed scalable HR products and front-end modules
+• Improved development speed and system performance
 
-**Lead Technical Specialist – SSS Solutions (2019–2021)**  
-Internal product architect managing end-to-end system design and development.
+2019 ─────────────── 2021
+Lead Technical Specialist
+SSS Solutions, Hyderabad
+• Internal product architect for business-critical software
+• Managed end-to-end system design and development
 
-**Technical Team Lead – Wenso Ltd (2017–2019)**  
-Led development teams, client delivery, and architecture.
+2017 ─────────────── 2019
+Technical Team Lead
+Wenso Ltd, Hyderabad
+• Led development teams, architecture, and client delivery
+• Hands-on coding, reviews, and deployments
 
-**PHP Developer – Verve Mobile (2015–2016)**  
-Developed backend APIs and hybrid mobile applications.
+2015 ─────────────── 2016
+PHP Developer
+Verve Mobile Pvt Ltd, Hyderabad
+• Developed backend APIs and hybrid mobile applications
+• Supported UI development and performance optimization
 
-**Freelancer – Web Developer (2013–2015)**  
-Delivered PHP websites, MVPs, and startup platforms.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shajahan1919&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shajahan1919&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajahan1919&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
-## 📫 My Contact Details
-
-📧 **Email:** shajahanbasha.syed@gmail.com  
-📞 **Phone:** +91-9949427002  
-🌐 **Website:** https://www.shajahanbasha.com  
-💼 **LinkedIn:** https://linkedin.com/in/shajahan-basha-syed-fullstack-lead  
-
----
-
-⭐ *Building scalable systems, leading strong teams, and delivering software that works in production.*
+2013 ─────────────── 2015
+Freelancer – Web Developer
+Hyderabad
+• Built PHP websites, MVPs, and startup platforms
+• Delivered responsive, scalable business solutions
