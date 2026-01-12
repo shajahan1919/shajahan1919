@@ -1,109 +1,81 @@
-# Hi, I'm Shajahan Basha Syed 👋  
-**Full Stack Technical Lead | AWS Certified Solutions Architect | 12+ Years in Web & Mobile**
+<div align="center">
 
-I design, build, and scale enterprise-grade web and mobile platforms.  
-I enjoy solving real business problems using clean architecture, modern frameworks, and cloud-first systems.
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F97316&center=true&vCenter=true&width=800&lines=Syed+Shajahan+Basha;Full+Stack+Technical+Lead;AWS+Certified+Solutions+Architect;12%2B+Years+in+Web+%26+Mobile" />
 
-📍 Hyderabad, India  
-🔗 Website: https://shajahanbasha.com  
-💼 LinkedIn: https://linkedin.com/in/shajahan-basha-syed-fullstack-lead  
+<br/>
+
+🌐 **www.shajahanbasha.com**  
+📧 **shajahanbasha.syed@gmail.com**  
+📞 **+91-9949427002**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Technical Lead with 12+ years of experience in building scalable platforms across healthcare, HR tech, CRM, and SaaS domains. I specialize in end-to-end product architecture, cloud-native solutions, and mentoring engineering teams.
+I am **Shajahan Basha Syed**, a Full Stack Technical Lead and AWS Certified Solutions Architect with over **12+ years of experience** in building scalable web and mobile applications.
 
-I believe in writing clean, maintainable code, choosing the right architecture early, and delivering systems that are reliable in production.
-
----
-
-## 🧠 What I Work With
-
-### Backend
-- PHP (Laravel, CodeIgniter)
-- Node.js (Express)
-- REST APIs, Microservices
-
-### Frontend
-- React.js, AngularJS
-- Flutter, Ionic
-
-### Databases
-- MySQL, MongoDB
-
-### Cloud & DevOps
-- AWS (Certified Solutions Architect – Associate)
-- CI/CD, Cloud Architecture, Performance Optimization
+I focus on clean architecture, performance, cloud-first systems, and mentoring teams to deliver reliable enterprise solutions.
 
 ---
 
-## 🚀 Key Projects
+## 🧠 Skills & Technologies
 
-### 🏥 SMARThealth  
-**Tech:** Flutter, Node.js, PHP, MySQL  
-- Built a multilingual healthcare platform for community health workers.  
-- Added decision-support tools for chronic diseases like diabetes and heart conditions.  
-- Improved accessibility by localizing for multiple regions and languages.
+### 💻 Backend
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
----
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+</p>
 
-### 🧩 TCC Builder (Low-Code Platform)  
-**Tech:** JavaScript, Node.js, MongoDB  
-- Developed a low-code system for building enterprise applications.  
-- Created modules like Data Object Builder, UI Canvas (drag & drop), and Dataset Builder.  
-- Helped enterprises reduce development time and scale faster.
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
----
-
-### 👨‍👩‍👧 Parentune  
-**Tech:** PHP, Laravel, MySQL  
-- Built a digital parenting platform with expert content and community features.  
-- Scaled it for thousands of active users with personalized experiences.
-
----
-
-### 💬 QuackQuack  
-**Tech:** AngularJS, Ionic, PHP  
-- Developed a secure matchmaking app with real-time chat and verification features.  
-- Focused on user safety, performance, and mobile-first design.
-
----
-
-## 🏆 Career Highlights
-
-- Led delivery of 5+ enterprise platforms across healthcare, HR, and CRM.  
-- Reduced infrastructure costs by ~15% through optimized architecture.  
-- Accelerated product delivery by 50% using Low-Code and Agile practices.  
-- Mentored teams and improved technical standards across projects.
+### ☁️ Cloud & Architecture
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Low--Code%20%2F%20No--Code-7C3AED?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Activity
 
-- AWS Certified Solutions Architect – Associate  
-- Microsoft Certified Professional  
-- MTA: Database Fundamentals  
-- Generative AI MasterMind  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shajahan1919&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shajahan1919&theme=radical" width="48%"/>
+</p>
 
----
-
-## 🤝 Leadership & Work Style
-
-- Strong believer in clean architecture and SOLID principles.  
-- Hands-on mentor who enjoys growing engineering teams.  
-- Focused on scalable design, performance, and business impact.  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajahan1919&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact Me
 
-If you are looking for a **Technical Lead, Full Stack Architect, or Engineering Manager**, I would be happy to connect.
-
-📧 Email: shajahanbasha.syed@gmail.com  
-🌐 Portfolio: https://shajahanbasha.com  
-💼 LinkedIn: https://linkedin.com/in/shajahan-basha-syed-fullstack-lead  
+<p>
+📧 <b>Email:</b> shajahanbasha.syed@gmail.com <br/>
+📞 <b>Phone:</b> +91-9949427002 <br/>
+🌐 <b>Website:</b> <a href="https://www.shajahanbasha.com">www.shajahanbasha.com</a> <br/>
+💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/shajahan-basha-syed-fullstack-lead">View Profile</a>
+</p>
 
 ---
 
-⭐ *“Build systems that scale, teams that grow, and products that matter.”*
+⭐ *Building scalable systems, leading teams, and delivering software that lasts.*
