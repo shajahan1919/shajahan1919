@@ -53,10 +53,6 @@ AWS • MySQL • MongoDB • Cloud Architecture • Scalable Systems
 
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud-First+Architecture;High-Performance+System+Design;Low-Code+%2F+No-Code+Platforms;Enterprise+Application+Development" />
-</div>
-
 ---
 
 ## 🎓 Certifications
@@ -162,22 +158,28 @@ AWS • MySQL • MongoDB • Cloud Architecture • Scalable Systems
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Profile Snapshot
 
 <div align="center">
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=shajahan1919&show_icons=true&hide_border=true&theme=transparent" />
+<td align="center" width="33%">
+<h3>👨‍💻 Experience</h3>
+<b>12+ Years</b><br/>
+Enterprise Web & Mobile
 </td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shajahan1919&hide_border=true&theme=transparent" />
+
+<td align="center" width="33%">
+<h3>☁️ Cloud</h3>
+<b>AWS Certified</b><br/>
+Scalable Architecture
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajahan1919&layout=compact&hide_border=true&theme=transparent" />
+
+<td align="center" width="33%">
+<h3>🚀 Leadership</h3>
+<b>Tech Lead</b><br/>
+Mentorship & Delivery
 </td>
 </tr>
 </table>
